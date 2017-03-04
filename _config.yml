@@ -1,2 +1,3 @@
 name: Ajay Kumar, Brother of Byomakesh Bakshi
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
