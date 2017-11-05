@@ -13,5 +13,5 @@ It actually is a lot easier than I thought it was going to be.
 
 # Shiny Apps
 
-View my shiny app at [https://ajaykumar.shinyapps.io/shinyr_trends/]
+View my shiny app at [Jekyll](https://ajaykumar.shinyapps.io/shinyr_trends/)
 This is a **Shiny app** for working with bivariate analyses.
